@@ -1,0 +1,24 @@
+HTTrack3.49-2 launched on Tue, 09 Dec 2025 16:16:00 at https://linhhung.iwedding.info/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://linhhung.iwedding.info/ -O "/Users/hunni/websites/weding" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:18:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://linhhung.iwedding.info/common/calendar.js?v=20251121
+16:18:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://linhhung.iwedding.info/common/biicommon.min.js?v=20251121
+16:18:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://linhhung.iwedding.info/templates/template135/js/libs.js
+16:18:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://linhhung.iwedding.info/templates/template135/js/script.js
+16:18:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://linhhung.iwedding.info/common/emoji-picker/js/init.js?v=20251121
+16:18:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://linhhung.iwedding.info/common/emoji-picker/js/insertTextAtCursor.js?v=20251121
+16:18:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://linhhung.iwedding.info/common/toastr/toastr.min.js?v=20251121
+16:18:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://linhhung.iwedding.info/rsvp-template/script.js?v=20231217
+16:18:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://linhhung.iwedding.info/templates/template135/fonts/bootstrap-icons.woff?24e3eb84d0bcaf83d77f904c78ac1f47
+16:18:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://linhhung.iwedding.info/templates/template135/fonts/lg.woff?n1z373
+16:18:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://linhhung.iwedding.info/templates/template135/fonts/lg.eot?n1z373
+16:18:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://linhhung.iwedding.info/templates/template135/fonts/lg.eot?
+16:18:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://fonts.googleapis.com/css2?family=Coiny&family=Jura:wght@300&family=MonteCarlo&family=Tourney:wght@100&display=swap
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 51 seconds : 61 links scanned, 82 files written (6586000 bytes overall) [3514489 bytes received at 20552 bytes/sec], 2372823 bytes transferred using HTTP compression in 36 files, ratio 39%, 2.4 requests per connection
+(No errors, 13 warnings, 0 messages)

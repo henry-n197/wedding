@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+linhhung.iwedding.info	TRUE	/	FALSE	1999999999	PHPSESSID	gr5002e6sk96os3vd9qpl0c9hp
+
